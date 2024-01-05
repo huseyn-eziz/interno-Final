@@ -5,7 +5,7 @@ const Banner = () => {
   return (
     <>
       <div className="banner flex flex-col justify-center">
-        <div className="container ">
+        <div className="container mx-auto ">
           <div className="row flex flex-col gap-3">
             <h2 className="letyour">Let Your Home Be Unique</h2>
             <p className="there">

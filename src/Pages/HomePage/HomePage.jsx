@@ -1,11 +1,11 @@
 import Banner from "../../Component/Banner/Banner";
-import Header from "../../Component/Header/Header";
-import Routing from "../../Component/Routing/Routing";
+import ProjectPlan from "../../Component/ProjectPlan/ProjectPlan";
 
 const HomePage = () => {
   return (
     <>
       <Banner />
+      <ProjectPlan/>
     </>
   );
 };

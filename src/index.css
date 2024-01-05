@@ -8,14 +8,5 @@
   font-size: calc(8px + 1vw);
 }
 
-.container {
-  max-width: 1200px !important;
-  margin: 0 auto;
-}
 
 
-@media screen and (max-width: 1200px) {
-  .container {
-    padding-inline: 3rem;
-  }
-}
